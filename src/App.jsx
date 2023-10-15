@@ -11,18 +11,10 @@ function App() {
       <p>Site currently under construction.</p>
       <p>Please check back for future updates.</p>
       <section className="siteLinks">
-        <a
-          href="https://art.tom-seager.com"
-          className="siteLinkStyle"
-          target="_blank"
-        >
+        <a href="https://art.tom-seager.com" className="siteLinkStyle">
           Visit Tom Seager Art Site
         </a>
-        <a
-          href="https://dev.tom-seager.com"
-          className="siteLinkStyle"
-          target="_blank"
-        >
+        <a href="https://dev.tom-seager.com" className="siteLinkStyle">
           Visit Tom Seager Dev Site
         </a>
       </section>
